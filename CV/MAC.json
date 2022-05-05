@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Diego",
+      "surnames": "Sierra Fernández",
+      "title": "Telecommunications & Software Engineer",
+      "description": "Hola! Soy ingeniero de telecomunicaciones pero mi background es de desarrollador de software, especialmente con tecnologías como IoT y blockchain. Actualmente trabajo como SRE y arquitecto y me encargo de diseñar y gestionar la infraestructura de las empresas y procurar que todo esté automatizado y sea seguro.",
+      "avatar": {
+        "alt": "WhatsApp Image 2022-05-05 at 1.21.25 PM.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/8f3b41e6-6669-4299-903a-84e0ce2bc92a_whatsapp-image-2022-.jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/jdiegosierra"
+      },
+      {
+        "type": "other",
+        "URL": "https://jdiegosierra.github.io/"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/9409100/diego-sierra-fernandez"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jdiegosierra/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Bio",
+        "fact": "🤾  Handball: 10 years playing in Club Balonmano Alcobendas.\n🎧  Dj, Music Production and Festivals Enthusiastic: Indie, Rock & Electronic music.\n👾  Videogames: Obviously like all the programmers.\n📈  Stock Investing: I haven't lost money yet."
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ethereum",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jdiegosierra/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/9409100/diego-sierra-fernandez"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Ethereum",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Go",
+          "type": "technology"
+        },
+        {
+          "name": "Grafana",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "Solidity",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
