@@ -60,66 +60,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Solidity",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C++",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Web3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -132,25 +72,55 @@
       },
       {
         "skill": {
-          "name": "Ansible",
+          "name": "Web3",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ethereum",
+          "name": "Solidity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -162,7 +132,37 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Ethereum",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ansible",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
           "type": "technology"
         }
       }
@@ -245,7 +245,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Linux",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
@@ -257,11 +257,11 @@
         "type": "technology"
       },
       {
-        "name": "JavaScript",
+        "name": "Ethereum",
         "type": "technology"
       },
       {
-        "name": "Ethereum",
+        "name": "Linux",
         "type": "technology"
       }
     ]
