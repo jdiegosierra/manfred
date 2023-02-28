@@ -9,7 +9,7 @@
       "name": "Juan Diego",
       "surnames": "Sierra Fernández",
       "title": "Telecommunications & Software Engineer",
-      "description": "Hola! Soy ingeniero de telecomunicaciones pero mi background es de desarrollador de software, especialmente con tecnologías como IoT y blockchain. Actualmente trabajo como SRE y arquitecto y me encargo de diseñar y gestionar la infraestructura de las empresas y procurar que todo esté automatizado y sea seguro.",
+      "description": "",
       "avatar": {
         "alt": "WhatsApp Image 2022-05-05 at 1.21.25 PM.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/8f3b41e6-6669-4299-903a-84e0ce2bc92a_whatsapp-image-2022-.jpeg"
@@ -241,7 +241,7 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   },
   "asgardPreferences": {
     "mainStackTechs": [
