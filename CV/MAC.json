@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -49,12 +48,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -160,6 +157,29 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Certified Solutions Architect – Associate",
+        "startDate": "2022-12-01",
+        "finishDate": "2025-12-01",
+        "institution": {
+          "name": "Amazon Web Services Training and Certification",
+          "URL": "https://www.credly.com/badges/9ce9185c-84f8-4790-8baa-8ddf354c0b81",
+          "image": {
+            "alt": "AWS Certified Solutions Architect - Associate certificate-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/16/4a0873d3-6477-4eac-b79b-cde4a13f3417_aws-certified-soluti.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
@@ -234,31 +254,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "NodeJS",
-        "type": "technology"
-      },
-      {
-        "name": "AWS",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
-        "type": "technology"
-      },
-      {
-        "name": "GitLab",
-        "type": "technology"
-      },
-      {
-        "name": "Linux",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
