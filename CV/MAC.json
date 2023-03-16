@@ -132,12 +132,6 @@
       },
       {
         "skill": {
-          "name": "Ethereum",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Ansible",
           "type": "technology"
         }
@@ -254,11 +248,11 @@
         "type": "technology"
       },
       {
-        "name": "GitLab",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
-        "name": "Ethereum",
+        "name": "GitLab",
         "type": "technology"
       },
       {
