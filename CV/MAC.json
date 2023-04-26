@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -48,10 +49,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -167,6 +170,7 @@
         "finishDate": "2025-12-01",
         "institution": {
           "name": "Amazon Web Services Training and Certification",
+          "description": "",
           "URL": "https://www.credly.com/badges/9ce9185c-84f8-4790-8baa-8ddf354c0b81",
           "image": {
             "alt": "AWS Certified Solutions Architect - Associate certificate-1.png",
@@ -206,15 +210,15 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
           "name": "Ethereum",
           "type": "technology"
         },
         {
           "name": "GitLab",
-          "type": "technology"
-        },
-        {
-          "name": "Go",
           "type": "technology"
         },
         {
@@ -254,6 +258,31 @@
         "Software Architect",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "GitLab",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      }
+    ]
   }
 }
