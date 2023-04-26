@@ -76,31 +76,7 @@
       },
       {
         "skill": {
-          "name": "Web3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Solidity",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
           "type": "technology"
         }
       },
@@ -118,18 +94,6 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -142,13 +106,55 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Web3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solidity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -160,7 +166,7 @@
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "Angular2+",
           "type": "technology"
         }
       }
