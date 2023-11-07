@@ -276,6 +276,10 @@
           "type": "technology"
         },
         {
+          "name": "Prometheus",
+          "type": "technology"
+        },
+        {
           "name": "Solidity",
           "type": "technology"
         },
