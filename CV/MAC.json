@@ -29,6 +29,18 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jdiegosierra/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jdiegosierra"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/9409100/diego-sierra-fernandez"
+      },
+      {
         "type": "other",
         "URL": "https://jdiegosierra.github.io/"
       }
