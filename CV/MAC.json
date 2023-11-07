@@ -272,6 +272,10 @@
           "type": "technology"
         },
         {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
           "name": "Grafana",
           "type": "technology"
         },
