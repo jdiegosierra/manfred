@@ -49,11 +49,6 @@
   "knowledge": {
     "languages": [
       {
-        "name": "AZ",
-        "fullName": "Azerí",
-        "level": "Professional working proficiency"
-      },
-      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
@@ -128,12 +123,6 @@
       {
         "skill": {
           "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -306,12 +295,9 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
         "DevOps & Infrastructure & SRE",
         "Full-stack Developer",
-        "Security Engineer",
-        "Software Architect",
-        "Tech Lead"
+        "MLOps"
       ]
     },
     "status": "openToOffers",
@@ -340,7 +326,7 @@
         "type": "technology"
       },
       {
-        "name": "NodeJS",
+        "name": "Python",
         "type": "technology"
       }
     ],
