@@ -103,7 +103,7 @@
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -236,12 +236,6 @@
       ],
       "contactMails": [
         "juandiegosierrafernandez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "646898881",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
