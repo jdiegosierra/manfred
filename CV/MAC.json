@@ -8,8 +8,8 @@
     "profile": {
       "name": "Juan Diego (Diego)",
       "surnames": "Sierra Fernández",
-      "title": "Software Developer, SRE & Cloud Architect",
-      "description": "With over 6 years developing software and more than 4 years designing, building & improving infrastructures. I had the oppportunity to work with different technologies such as Blockchain, IoT, Videogames & AI. I have also obtained strong skills in programming languages such as JavaScript, TypeScript & Python as well as Amazon Web Services as a cloud provider and related SRE technologies such as Kubernetes, Terraform, Ansible & Gitlab. As a result, I have developed a comprehensive understanding of the entire software ecosystem.",
+      "title": "Site Reliability Engineer | DevOps | MLOps | Software Craftsmanship | Blockchain Expert | Internet Of Things Developer",
+      "description": "I am a highly skilled Site Reliability Engineer and Software Developer with a robust background in blockchain technology. With extensive experience in leading technical teams and implementing advanced solutions, I have consistently driven significant improvements in the efficiency, scalability, and reliability of various systems and infrastructures. My career is marked by a commitment to best practices, innovative problem-solving, and continuous learning.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/05/8f3b41e6-6669-4299-903a-84e0ce2bc92a_whatsapp-image-2022-.jpeg",
         "alt": "WhatsApp Image 2022-05-05 at 1.21.25 PM.jpeg"
@@ -46,6 +46,169 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "The Workshop"
+        },
+        "roles": [
+          {
+            "name": "Site Reliability Engineer (SRE)",
+            "startDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "As a Site Reliability Engineer (SRE), I collaborate with development teams to provide standards and best practices. My responsibilities include creating Docker images, Helm charts, GitLab pipelines, Ansible playbooks, etc. Additionally, I am responsible for introducing OpenTelemetry as the standard for monitoring."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mindcurv"
+        },
+        "roles": [
+          {
+            "name": "Platform Engineer",
+            "startDate": "2022-07-01",
+            "finishDate": "2023-12-01",
+            "challenges": [
+              {
+                "description": "Improving the AWS auxmoney.com infrastructure along with people from Germany & India."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bdeo"
+        },
+        "roles": [
+          {
+            "name": "DevOps Engineer",
+            "startDate": "2021-04-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "* Cloud serverlerless architecture. * Managing all the AWS infrastructure of the company: Cloudformation, API Gateway, Lambda, Cloudfront, Route 53, EC2, DynamoDB, RDS, Fargate... * Implementing DevOps culture in the teams, managing Gitlab pipelines, developing packages for internal purpose, improving AWS deployments.... * Designing and developing horizontal services in order to facilitate the product development: blockchain service, notifications service, language service, auth service... * Helping the support team when they are not able to find a solution for a specific bug. * Helping other developers when they get stuck."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Bdeo"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2020-06-01",
+            "finishDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "* Working as a senior software developer in the product team, doing code reviews, designing new services, refactoring legacy code, teaching about programming best practices... * Creating and maintaining the AWS infrastructure."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sopra Steria"
+        },
+        "roles": [
+          {
+            "name": "Senior Blockchain Developer (Airbus Defence and Space)",
+            "startDate": "2019-02-01",
+            "finishDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "* Team leader & developing international Blockchain projects. Being the focal point between the client and the developer team. Working with people from Germany, Italy, Spain & France. * Building a Blockchain from scratch with Python & LevelDB. * Team leader in a project for Cartagena ports using Hyperledger Fabric in Alastria Network."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "VIKYNGO"
+        },
+        "roles": [
+          {
+            "name": "Founder",
+            "startDate": "2017-09-01",
+            "finishDate": "2019-09-01",
+            "challenges": [
+              {
+                "description": "* Looking for collaborators & lidering the team of 5 workers. * Developing a Blockchain & IoT platform with technologies like BigchainDB, RabbitMQ, Angular, NodeJS, MongoDB, PostgreSQL. * Researching about Blockchain technologies like Tendermint."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Altair"
+        },
+        "roles": [
+          {
+            "name": "Embedded Software Developer (Internet of Things)",
+            "startDate": "2017-06-01",
+            "finishDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "* Developing a fork of Node-RED with NodeJS. * Developing software for IoT devices in C/C++. * Learning protocols  & technologies such as Bluetooth, RabbitMQ, ThingWorx, Sigfox, LoRa, RFID, WiFi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Blocknitive"
+        },
+        "roles": [
+          {
+            "name": "Blockchain Developer",
+            "startDate": "2017-01-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "* Developing the eBlockfy front-end & back-end appplication with Etehreum blockchain.  * Developing the Asentify back-end application with Hyperledger Fabric technology.  * Researching about Blockchain technologies like Hyperledger Burrow. * Using technologies such as Docker, HTML, Bootstrap, Ruby, MongoDB, NodeJS, Angular."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DARKSIDE MADRID EVENTOS SL"
+        },
+        "roles": [
+          {
+            "name": "Co-Founder",
+            "startDate": "2014-01-01",
+            "finishDate": "2016-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Zoológico Club"
+        },
+        "roles": [
+          {
+            "name": "Manager, DJ, RRPP",
+            "startDate": "2009-01-01",
+            "finishDate": "2013-01-01"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -62,7 +225,25 @@
     "hardSkills": [
       {
         "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFormation",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFormation ",
           "type": "technology"
         }
       },
@@ -80,6 +261,12 @@
       },
       {
         "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "C++",
           "type": "technology"
         }
@@ -92,7 +279,37 @@
       },
       {
         "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ethereum",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Groovy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Helm",
           "type": "technology"
         }
       },
@@ -116,6 +333,12 @@
       },
       {
         "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Kubernetes",
           "type": "technology"
         }
@@ -128,7 +351,37 @@
       },
       {
         "skill": {
+          "name": "Maven",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -158,52 +411,33 @@
       },
       {
         "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Web3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "AWS Certified Solutions Architect – Associate",
-        "startDate": "2022-12-01",
+        "name": "Grado en Ingeniería",
+        "startDate": "2012-01-01",
         "institution": {
-          "name": "Amazon Web Services Training and Certification",
-          "URL": "https://www.credly.com/badges/9ce9185c-84f8-4790-8baa-8ddf354c0b81",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/03/16/4a0873d3-6477-4eac-b79b-cde4a13f3417_aws-certified-soluti.png",
-            "alt": "AWS Certified Solutions Architect - Associate certificate-1.png"
-          }
+          "name": "Universidad Autónoma de Madrid"
         },
-        "finishDate": "2025-12-01",
-        "linkedCompetences": [
-          {
-            "name": "AWS",
-            "type": "technology"
-          }
-        ]
-      }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Autonomy in learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Continuous learning",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Creative thinking",
-          "type": "practice"
-        }
+        "finishDate": "2019-01-01"
       }
     ]
   },
