@@ -49,6 +49,11 @@
   "knowledge": {
     "languages": [
       {
+        "name": "AZ",
+        "fullName": "Azerí",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
