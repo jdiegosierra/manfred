@@ -314,7 +314,12 @@
         "Tech Lead"
       ]
     },
-    "status": "notAvailable"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
